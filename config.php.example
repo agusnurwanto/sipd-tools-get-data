@@ -1,0 +1,14 @@
+<?php
+define('DAERAH','xxx_prov_kab');
+define('IDDAERAH','xxx');
+
+$username_sipd_merah='xxx';
+$password_sipd_merah='xxx';
+
+$username_sipd_penat='xxx';
+$password_sipd_penat='xxx';
+
+$host_sql_server='(local)';
+$db_sql_server='xxx';
+$username_sql_server='sa';
+$password_sql_server='xxx';
