@@ -1,5 +1,7 @@
 # SIPD Tools Get Data
 
+Salah satu aplikasi yang dikembangan oleh daerah untuk membackup data SIPD Kemendagri
+
 ### Syarat Penggunaan
 - Gunakan PHP >= 7.2 agar enkripsi ssl nya lancar
 - Database SQL Server untuk menampung data SIPD
